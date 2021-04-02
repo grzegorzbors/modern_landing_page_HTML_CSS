@@ -1,0 +1,1 @@
+Pure HTML & CSS site made along video <https://www.youtube.com/watch?v=X1dz0xRbSJc> for practice.
